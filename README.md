@@ -1,1 +1,1 @@
-# Data-Analysis-on-Stcoks-using-yFinanace-lib.
+# Data-Analysis-on-Stcoks-.
